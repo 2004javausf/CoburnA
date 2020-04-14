@@ -1,0 +1,23 @@
+package com.revature.driver;
+
+public class Driver {
+	//single line comment
+	/*
+	 * Multi - 
+	 * Line comment
+	 * ha
+	 * ha
+	 */
+	/* Why Java?
+	 * "WORA" principal -
+	 * "Write once, Run anywhere"
+	 * OOP
+	 * Widespread Use
+	 * Great documentation!
+	 * Oracle
+	 * 	Before them Sun Microsystems used to own it...
+	 * version 1.8 aka "Java 8"
+	 */
+	
+	
+}
